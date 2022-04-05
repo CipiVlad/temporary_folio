@@ -1,0 +1,111 @@
+/* -------------
+FONTS
+Athene, Open Sans
+-------------- */
+/* -------------
+COLORS
+Farben: #042A5A #F4C4C4 #282B29 #7D2222 #DEB873 #D2D2D2 #388883
+
+-------------- */
+/* -------------
+GENERAL
+-------------- */
+@font-face {
+    font-family: 'Athene';
+    src: url(../fonts/Athene.otf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2 {
+    font-family: 'Athene';
+}
+
+
+/* -------------
+header
+-------------- */
+header {
+    font-family: 'Open Sans', sans-serif;
+    border-bottom: 1px solid #042A5A;
+    background-color: #DEB873;
+    color: #042A5A;
+}
+
+header p {
+    text-align: left;
+    display: inline;
+}
+
+header span {
+    display: inline-block;
+    text-align: right;
+}
+
+
+/* -------------
+section page 1
+-------------- */
+body section {
+    background-color: #DEB873;
+}
+
+body section h1 {
+    font-size: 160px;
+    font-weight: 400;
+    color: #042A5A;
+    border-bottom: 1px solid #042A5A;
+    text-align: center;
+}
+
+body section img {
+    display: block;
+    margin: 30px auto;
+}
+
+body section h2 {
+    font-size: ;
+    font-weight: ;
+    color: #042A5A;
+    display: inline;
+
+
+}
+
+body section p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: ;
+    font-weight: ;
+    color: #042A5A;
+    display: inline-block;
+}
+
+body div {
+    text-align: center;
+}
+
+
+
+
+/* -------------
+
+-------------- */
+/* -------------
+
+-------------- */
+
+/* -------------
+
+-------------- */
+/* -------------
+
+-------------- */
+
+/* -------------
+
+-------------- */
